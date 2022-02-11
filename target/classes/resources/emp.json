@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "ram",
+    "city": "bangalore"
+  },
+  {
+    "id": 2,
+    "name": "lisa",
+    "city": "delhi"
+  }
+]
